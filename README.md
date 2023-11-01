@@ -1,1 +1,1 @@
-# Fuckyou.py   cd Fuckyougf
+# Fuckyou.py  
